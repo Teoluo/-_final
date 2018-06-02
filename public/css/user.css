@@ -1,0 +1,26 @@
+
+.content{
+	width: 1000px;
+	margin: 40px auto;
+}
+#navbar-item li{
+	margin-left:25px;
+	margin-right:30px;
+}
+#navbar-first{
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
+.usrInfo{
+	height: 400px;
+	width: 100%;
+	margin: 0px auto;
+}
+
+.homeAvatar{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin: 10px auto;
+}
