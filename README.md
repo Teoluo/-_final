@@ -21,5 +21,5 @@
 ### 分类
 ![img](https://github.com/Teoluo/Tiantianlushi_final/blob/master/screenshots/5.png)
 
-### 新建文件
+### 新建文章
 ![img](https://github.com/Teoluo/Tiantianlushi_final/blob/master/screenshots/6.png)
